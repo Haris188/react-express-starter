@@ -1,0 +1,23 @@
+{
+  "name": "@vetapp/server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "dev": "nodemon --watch '*.ts' --exec 'ts-node' src/index.ts"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.7",
+    "express": "^4.17.1",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.10.4",
+    "@babel/preset-typescript": "^7.10.4",
+    "nodemon": "^2.0.4"
+  }
+}
