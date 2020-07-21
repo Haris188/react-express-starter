@@ -1,2 +1,6 @@
-# online-vet
-An App that connect pet owners to vets
+# React-express-stater
+A boiler plate with react client and express server
+
+## Still in progress. This project by no means complete yet
+
+
