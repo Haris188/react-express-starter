@@ -2,6 +2,9 @@
   "name": "@vetapp/components",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "initialize": "yarn install"
+  },
   "dependencies": {
     "@babel/preset-react": "^7.10.4",
     "@material-ui/core": "^4.11.0",

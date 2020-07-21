@@ -29,13 +29,14 @@
     "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
+    "initialize": "yarn install",
     "bundle": "webpack",
     "start": "webpack-dev-server --mode development --hot",
     "build": "webpack --mode production",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
+  "eslintConfig": {       
     "extends": "react-app"
   },
   "browserslist": {
