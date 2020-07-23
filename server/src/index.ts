@@ -1,11 +1,4 @@
-import express from 'express'
 
-const app = express();
+import {makeApp} from './app'
 
-app.get('/', (req,res)=>{
-    res.send('Hello world s')
-})
-
-app.listen(5000)
-
-console.log("API started on port 5000")
+makeApp();
