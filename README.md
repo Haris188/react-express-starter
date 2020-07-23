@@ -4,7 +4,7 @@ A boiler plate with react client and express server
 ## Still in progress. This project by no means complete yet
 
 ### commands
-yarn setup: to initialize the project
+yarn setup: to initialize the project \n
 yarn dev: to run project in development mode
 
 build command is needed to be added
