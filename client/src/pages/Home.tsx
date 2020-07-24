@@ -1,7 +1,7 @@
 import {
     MarginedContainer,
     NavBar,
-  } from "@vetapp/components";
+  } from "@app/components";
   import {
     ActionButton,
     GraphicText,

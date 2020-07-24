@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 import {DimensionContext} from '../../App'
 
-import {  MarginedContainer } from "@vetapp/components";
+import {  MarginedContainer } from "@app/components";
 
 import dogImage from '../../assets/dog.png'
 import ModalImage from '../../assets/home-heading.svg'

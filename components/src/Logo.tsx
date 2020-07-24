@@ -7,4 +7,4 @@ const Text = styled.p`
   color: ${({ theme }) => theme.palette.primary.main};
 `;
 
-export const Logo = () => <Text>VetApp</Text>;
+export const Logo = () => <Text>app</Text>;

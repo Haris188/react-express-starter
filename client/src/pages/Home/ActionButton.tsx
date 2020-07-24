@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { CenteredFlexDiv } from "@vetapp/components";
+import { CenteredFlexDiv } from "@app/components";
 import {Button } from '@material-ui/core'
 
 const RedDot = styled.div`
